@@ -1,0 +1,51 @@
+Question 1
+========================================
+@title School Lunch Combinations Assessment
+@description Assessment on counting principles and combinations
+
+@question Each student at Riverside Elementary School can choose a lunch combination 
+consisting of 1 main dish, 1 side dish, and 1 drink. The table shows the available options:
+
+Main Dish: Pizza, Burger, Chicken, Pasta
+Side Dish: French Fries, Salad, Fruit Cup  
+Drink: Milk, Water, Juice
+
+How many different lunch combinations are possible?
+@instruction Select the correct answer from the options below.
+@difficulty moderate
+@Order 1
+@option Eleven
+@option Sixteen
+@option Twenty-four
+@@option Thirty-six
+@option Forty-eight
+@explanation 4 main dishes × 3 side dishes × 3 drinks = 36 combinations
+@subject Quantitative Math
+@unit Data Analysis & Probability
+@topic Counting & Arrangement Problems
+@plusmarks 1
+
+
+Question 2
+========================================
+@title Cylindrical Container Packing Assessment
+@description Assessment on geometry and spatial reasoning
+
+@question The side view of a rectangular box containing 8 tightly packed cylindrical cans 
+is shown. Each can has a radius of 3 cm and height of 10 cm. The cans are arranged in 2 rows of 4 cans. 
+Which dimensions are closest to those of the rectangular box?
+@instruction Select the correct answer from the options below.
+@difficulty moderate
+@Order 2
+@option $6 \times 12 \times 10$
+@option $10 \times 12 \times 24$
+@@option $12 \times 24 \times 10$
+@option $18 \times 24 \times 10$
+@option $12 \times 24 \times 15$
+@explanation Width: 2 rows × 6 cm diameter = 12 cm, Length: 4 cans × 6 cm = 24 cm, Height: 10 cm
+@subject Quantitative Math
+@unit Geometry and Measurement
+@topic Solid Figures (Volume of Cubes)
+@plusmarks 1
+
+
